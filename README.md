@@ -11,6 +11,6 @@ Informações do Banco de Dados em arquivo ".env" - uso de "dotenv" para conecta
 ><br>
 >**Aqui está o link do vídeo de exemplo do uso da API com o Postman:**
 >
->**[Link do vídeo no Google Drive](https://drive.google.com/file/d/1ojd2iNyJ9S3fz7hLLAmLXixnSS_XKkFm/view?usp=sharing){target="_blank"}**
+>**<a href="https://drive.google.com/file/d/1ojd2iNyJ9S3fz7hLLAmLXixnSS_XKkFm/view?usp=sharing" target="_blank">Link do vídeo no Google Drive</a>**
 >  :---:
 ><br>
