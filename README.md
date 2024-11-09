@@ -1,5 +1,15 @@
 # techstore-api
 Desenvolvimento de API em NodeJS.
+
 Arquivo principal (main): "app.js".
+
 Conexão com Banco de Dados SQL.
+
 Informações do Banco de Dados em arquivo ".env" - uso de "dotenv" para conectar informações com o arquivo principal.
+
+><br>
+>**Aqui está o link do vídeo de exemplo do uso da API com o Postman:**
+>
+>**[Link do vídeo no Google Drive](https://drive.google.com/file/d/1ojd2iNyJ9S3fz7hLLAmLXixnSS_XKkFm/view?usp=sharing)**
+>  :---:
+><br>
